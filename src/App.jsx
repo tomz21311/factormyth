@@ -430,7 +430,7 @@ export default function MythsBusted() {
                   marginBottom: 16,
                 }}
               >
-                Pick a category
+                Choose your category
               </p>
 
               <div style={{ display: "flex", flexDirection: "column", gap: 14, width: "100%" }}>
